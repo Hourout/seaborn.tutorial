@@ -1,4 +1,4 @@
-# seaborn.tutorial
+# seaborn.tutorial 中文教程
 Seaborn：统计数据可视化
 
 Seaborn是一个基于matplotlib的Python可视化库。 它提供了一个高级界面来绘制有吸引力的统计图形。
