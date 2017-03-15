@@ -8,4 +8,4 @@ Seaborn是一个基于matplotlib的Python可视化库。 它提供了一个高�
 对seaborn中文教程感兴趣的小伙伴欢迎在知乎和github上留言。
 
 e-mail:hourout@163.com
-知乎：https://www.zhihu.com/people/yoodoo
+知乎：https://zhuanlan.zhihu.com/seaborn-visualization-tutorial
